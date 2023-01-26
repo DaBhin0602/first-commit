@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tutuFirst",
+    "slug": "tutuFirst",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tutuFirst"
+}
